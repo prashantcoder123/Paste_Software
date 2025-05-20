@@ -43,7 +43,7 @@ function App() {
         <RouterProvider router={router}/>
       </div>
      
-     
+     <h3> Use local storage of your system to seen previous data </h3>
     </>
   )
 }

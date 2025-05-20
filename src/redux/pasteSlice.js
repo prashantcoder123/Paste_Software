@@ -56,3 +56,4 @@ toast.success("paste deleted");
 export const { addToPastes, updateToPastes, resetAllPastes ,removeFromPastes } = pasteSlice.actions
 
 export default pasteSlice.reducer
+
